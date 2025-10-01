@@ -31,7 +31,7 @@ cpp-first-semester-labs/
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
